@@ -1,4 +1,4 @@
-# CopyRight Checker using Shazam and Youtube api
+# RightScan CopyRight Checker using Shazam and Youtube api
 
 
 ## Prerequisite
